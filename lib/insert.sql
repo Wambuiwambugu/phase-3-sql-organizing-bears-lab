@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ("Mr. Chocolate","7","M","black","sweet","true")
